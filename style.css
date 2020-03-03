@@ -1,0 +1,24 @@
+body {
+    position: relative; 
+    font-family: 'Indie Flower', cursive;
+    background-color: black;
+}
+.container{
+    background-color: black;
+}
+.jumbotron{
+    background-color: #0f1626;
+}
+#title{
+    color:white;
+}
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+#section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+#section4 {padding-top:50px;height:500px;color: #fff; background-color: #4717f6;}
+#section5 {padding-top:50px;height:500px;color: #fff; background-color: #0e0b16;}
+#section6 {padding-top:50px;height:500px;color: #fff; background-color: #07889b;}
+#section7 {padding-top:50px;height:500px;color: #fff; background-color: #813772;}
+#section8 {padding-top:50px;height:500px;color: #fff; background-color: #b82601;}
+#section9 {padding-top:50px;height:500px;color: #fff; background-color: #1d2731;}
+#section10 {padding-top:50px;height:500px;color: #fff; background-color: #0a1612;}
